@@ -1,0 +1,41 @@
+{
+  "name": "funpayserver",
+  "version": "0.5.3",
+  "description": "CLI app for auto-managing your FunPay account",
+  "main": "src/index.js",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "clone": "^2.1.2",
+    "codex": "^0.2.3",
+    "commander": "^14.0.1",
+    "configparser": "^0.3.10",
+    "discord.js": "^14.23.2",
+    "fs-extra": "^11.3.2",
+    "https-proxy-agent": "^7.0.6",
+    "inquirer": "^12.9.6",
+    "jimp": "^0.21.2",
+    "mineflayer": "^4.33.0",
+    "mongoose": "^8.19.1",
+    "node-fetch": "^3.3.2",
+    "node-html-parser": "^7.0.1",
+    "pngjs-image": "^0.11.7",
+    "project-version": "^2.0.0",
+    "telegraf": "^4.16.3",
+    "telegram-keyboard": "^2.3.5",
+    "update": "^0.7.4"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NightStrang6r/FunPayServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NightStrang6r/FunPayServer/issues"
+  },
+  "homepage": "https://github.com/NightStrang6r/FunPayServer#readme"
+}
