@@ -42,7 +42,7 @@ golden_key: ваш_токен
    cd path/to/project
    npm i
    ```
-3. Запустите приложение (в зависимости от вашего `package.json`):
+3. Запустите приложение:
 
    ```bash
    node .
